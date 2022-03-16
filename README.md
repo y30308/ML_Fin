@@ -48,5 +48,5 @@ Survey of consumer finances which is conducted by the Federal Reserve Board
 **Summary**  
 We showed that machine learning models might be able to objectively analyze the behavior of different investors in a changing market and attribute these changes to variables involved in determining risk appetite. 
 
-**Dashboard**
+**Dashboard**  
 ![img1](./ch5_3_RoboAdvisor_Interface.png)
